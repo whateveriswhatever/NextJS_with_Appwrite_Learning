@@ -107,7 +107,7 @@ const Login: React.FC = () => {
                 type="submit"
                 className="inline-flex w-full items-center justify-center rounded-md bg-primary px-3.5 py-2.5 font-semibold leading-7 text-white hover:bg-primary/80"
               >
-                Sign in
+                Log in
               </button>
             </div>
           </div>
